@@ -503,4 +503,5 @@ a {
 
 .size-control {
   width: 75%;
+  border: 2px solid magenta;
 }
