@@ -499,12 +499,8 @@ a {
     .team-img img {
       width: 30rem;
     }
-  }  
-
-.container {
-  max-width: 200%;
-}  
+  }   
 
 .size-control {
-  width: 200%;
+  max-width: 200%;
 }
