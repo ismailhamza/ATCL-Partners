@@ -500,3 +500,7 @@ a {
       width: 30rem;
     }
   }  
+
+.container {
+  width: 50%;
+}  
