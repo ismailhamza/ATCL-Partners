@@ -113,12 +113,12 @@ h1 {
 #paragraph-i {
     font-size: 15.7px;
     line-height: 32px;
-    margin-right: 18rem;
+    /* margin-right: 18rem; */
     font-family: Trebuchet MS, sans-serif;
     text-align: justify;
     text-justify: inter-word;
     letter-spacing: 0.5px;
-    margin-left: 18.8rem;
+    /* margin-left: 18.8rem; */
     margin-bottom: 2rem;
     color: #C9FBFF;
 }
@@ -502,6 +502,6 @@ a {
   }   
 
 .size-control {
-  width: 75%;
+  width: 99.9%;
   border: 2px solid black;
 }
