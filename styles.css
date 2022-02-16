@@ -506,7 +506,7 @@ a {
   border: 2px solid black;
 }
 
-@media (max-width: 1366px) and (max-height: 1024px) {
+@media (max-width: 1466px) and (max-height: 1124px) {
   body {
     line-height: 1;
   }
