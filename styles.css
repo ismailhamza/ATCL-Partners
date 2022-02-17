@@ -507,7 +507,7 @@ a {
 }
 
 @media (max-width: 1025px) and (max-height: 769px) {
-  .size-control {
-    border: 2px solid #192841;
+  .team-img img {
+    width: 60rem;
   }
 }
