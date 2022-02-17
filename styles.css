@@ -506,7 +506,7 @@ a {
   border: 2px solid black;
 }
 
-@media (max-width: 1025px) and (max-height: 769px) {
+@media (max-width: 1181px) and (max-height: 821px) {
   .maps {
     margin-left: 140rem;
   }
