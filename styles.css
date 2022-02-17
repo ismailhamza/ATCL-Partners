@@ -507,8 +507,7 @@ a {
 }
 
 @media (max-width: 1025px) and (max-height: 769px) {
-  .our-team img {
-    width: 332rem;
-    height: 332rem;
+  .maps {
+    margin-left: 14rem;
   }
 }
