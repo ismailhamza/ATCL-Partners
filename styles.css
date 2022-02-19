@@ -514,4 +514,8 @@ a {
   .team-hover {
     width: 42.5rem;
   }
+
+  .row .col-sm-6 {
+    width: 26%;
+  }
 }
