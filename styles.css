@@ -510,4 +510,8 @@ a {
   .maps {
     margin-left: 1.5rem;
   }
+
+  .team-hover {
+    width: 25rem;
+  }
 }
