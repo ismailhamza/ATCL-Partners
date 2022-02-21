@@ -516,6 +516,7 @@ a {
   }
 
   .row .col-sm-6 {
-    width: 140%;
+    width: 98%;
+    height: 132%;
   }
 }
