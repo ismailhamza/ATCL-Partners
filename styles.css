@@ -519,4 +519,20 @@ a {
     width: 98%;
     height: 132%;
   }
+
+  .secondImage {
+    margin: -332 -10 auto;
+  }
+
+  .storeHouse2 {
+    margin: -332 -10 auto;
+  }
+
+  .thirdImage {
+    margin: -666 920 auto;
+  }
+
+  .storeHouse3 {
+    margin: -666 920 auto;
+  }
 }
