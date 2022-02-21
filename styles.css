@@ -280,11 +280,11 @@ a {
 }
 
 .secondImage {
-    margin: -332 -10 auto;
+    margin: -265 -10 auto;
 }
 
 .thirdImage {
-    margin: -666 920 auto;
+    margin: -550 920 auto;
     width: 400rem;
 }
 
@@ -294,7 +294,7 @@ a {
 
 .storeHouse2 {
     /* margin: -255 950 auto; */
-    margin: -340.1 -10 auto;
+    margin: -265 -10 auto;
 }
 
 .storeHouse3 {
@@ -518,6 +518,7 @@ a {
   .row .col-sm-6 {
     width: 98%;
     height: 70%;
+    margin-bottom: 10rem;
   }
 
   .secondImage {
