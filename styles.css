@@ -516,8 +516,11 @@ a {
   }
 
   .row .col-sm-6 {
-    width: 98%;
-    height: 70%;
+    /* width: 98%;
+    height: 70%; */
+    position: relative;
+    width: 60%;
+    padding-top: 68.25%;
   }
 
   .secondImage {
@@ -529,7 +532,7 @@ a {
   }
 
   .thirdImage {
-    margin: -1050 920 auto;
+    margin: -938 920 auto;
   }
 
   .storeHouse3 {
