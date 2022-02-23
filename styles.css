@@ -190,8 +190,11 @@ a {
 .our-team{
     text-align: center;
     position: relative;
-    width: 16%;
-    height: 50%;
+    /* width: 16%;
+    height: 50%; */
+    position: relative;
+    width: 60%;
+    padding-top: 68.25%;
     color: #fff;
 }
 .our-team img{
@@ -515,13 +518,10 @@ a {
     width: 42.5rem;
   }
 
-  .row .col-sm-6 {
-    /* width: 98%;
-    height: 70%; */
-    position: relative;
-    width: 60%;
-    padding-top: 68.25%;
-  }
+  /* .row .col-sm-6 {
+    width: 98%;
+    height: 70%;
+  } */
 
   .secondImage {
     margin: -332 -10 auto;
