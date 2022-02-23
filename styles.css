@@ -191,10 +191,10 @@ a {
     text-align: center;
     position: relative;
     width: 16%;
-    /* height: 50%; */
-    position: relative;
+    height: 50%;
+    /* position: relative;
     width: 60%;
-    padding-top: 68.25%;
+    padding-top: 68.25%; */
     color: #fff;
 }
 .our-team img{
